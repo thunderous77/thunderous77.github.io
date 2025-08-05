@@ -4,7 +4,7 @@
 @string{aps = {American Physical Society,}}
 
 @inproceedings{zhang-etal-2024-glape,
-    abbr = "EMNLP2024 Main",
+    abbr = {EMNLP2024 Main},
     title = "{GL}a{PE}: Gold Label-agnostic Prompt Evaluation for Large Language Models",
     author = "Zhang*, Xuanchang  and
       Zhang, Zhuosheng  and
@@ -21,12 +21,14 @@
     doi = "10.18653/v1/2024.emnlp-main.121",
     pages = "2027--2039",
     abstract = "Despite the rapid progress of large language models (LLMs), their task performance remains sensitive to prompt design. Recent studies have explored leveraging the LLM itself as an optimizer to identify optimal prompts that maximize task accuracy. However, when evaluating prompts, such approaches heavily rely on elusive manually annotated gold labels to calculate task accuracy for each candidate prompt, which hinders its generality. To overcome the limitation, this work proposes GLaPE, a gold label-agnostic prompt evaluation method to alleviate dependence on gold labels. GLaPE is composed of two critical aspects: self-consistency evaluation of a single prompt and mutual-consistency refinement across multiple prompts. Experimental results on 8 widely-recognized reasoning tasks demonstrate that GLaPE can produce more effective prompts, achieving performance comparable to those derived from manually annotated gold labels. Analysis shows that GLaPE provides reliable evaluations aligned with accuracy, even in the absence of gold labels. Code is publicly available at **Anonymous**."
+    arxiv = {2402.02408},
+    code={https://github.com/thunderous77/GLaPE},
     selected={true},
     preview={GLaPE.png}
 }
 
 @inproceedings{zhang-etal-2025-lists,
-    abbr = "ACL2025 Main",
+    abbr = {ACL2025 Main},
     title = "From Lists to Emojis: How Format Bias Affects Model Alignment",
     author = "Zhang*, Xuanchang  and
       Xiong*, Wei  and
@@ -49,6 +51,6 @@
     ISBN = "979-8-89176-251-0",
     abstract = "In this paper, we study format biases in reinforcement learning from human feedback (RLHF). We observe that many widely-used preference models{---}including human evaluators, GPT-4, and top-ranking models on the RewardBench benchmark{---}exhibit strong biases towards specific format patterns, such as lists, links, bold text, and emojis. Furthermore, large language models (LLMs) can exploit these biases to achieve higher rankings on popular benchmarks like AlpacaEval and LMSYS Chatbot Arena. One notable example is verbosity bias, where current preference models favor longer responses that appear more comprehensive, even when their quality is equal to or lower than shorter responses. However, format biases beyond verbosity remain largely underexplored. In this work, we extend the study of biases in preference learning beyond the commonly recognized length bias, offering a comprehensive analysis of a wider range of format biases. Additionally, we show that with a small amount of biased data (less than 1{\%}), we can inject significant bias into the reward model. Moreover, these format biases can also be easily exploited by downstream alignment algorithms, such as *best-of-n sampling* and online iterative *DPO*, as it is usually easier to manipulate the format than to improve the quality of responses. Our findings emphasize the need to disentangle format and content both for designing alignment algorithms and evaluating models."
     selected={true},
-    code={https://github.com/thunderous77/GLaPE},
-    preview={GLaPE.png}
+    arxiv = {2409.11704},
+    preview={Reward_hacking.png}
 }
