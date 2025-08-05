@@ -3,30 +3,6 @@
 
 @string{aps = {American Physical Society,}}
 
-@inproceedings{zhang-etal-2024-glape,
-    abbr = {EMNLP},
-    title = "{GL}a{PE}: Gold Label-agnostic Prompt Evaluation for Large Language Models",
-    author = "Zhang*, Xuanchang  and
-      Zhang, Zhuosheng  and
-      Zhao, Hai",
-    editor = "Al-Onaizan, Yaser  and
-      Bansal, Mohit  and
-      Chen, Yun-Nung",
-    booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
-    month = nov,
-    year = "2024",
-    address = "Miami, Florida, USA",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2024.emnlp-main.121/",
-    doi = "10.18653/v1/2024.emnlp-main.121",
-    pages = "2027--2039",
-    abstract = "Despite the rapid progress of large language models (LLMs), their task performance remains sensitive to prompt design. Recent studies have explored leveraging the LLM itself as an optimizer to identify optimal prompts that maximize task accuracy. However, when evaluating prompts, such approaches heavily rely on elusive manually annotated gold labels to calculate task accuracy for each candidate prompt, which hinders its generality. To overcome the limitation, this work proposes GLaPE, a gold label-agnostic prompt evaluation method to alleviate dependence on gold labels. GLaPE is composed of two critical aspects: self-consistency evaluation of a single prompt and mutual-consistency refinement across multiple prompts. Experimental results on 8 widely-recognized reasoning tasks demonstrate that GLaPE can produce more effective prompts, achieving performance comparable to those derived from manually annotated gold labels. Analysis shows that GLaPE provides reliable evaluations aligned with accuracy, even in the absence of gold labels. Code is publicly available at **Anonymous**.",
-    code={https://github.com/thunderous77/GLaPE},
-    selected={true},
-    arxiv = {2402.02408},
-    preview={GLaPE.png}
-}
-
 @inproceedings{zhang-etal-2025-lists,
     abbr = {ACL},
     title = "From Lists to Emojis: How Format Bias Affects Model Alignment",
@@ -53,4 +29,28 @@
     selected={true},
     arxiv = {2409.11704},
     preview={Reward_hacking.png}
+}
+
+@inproceedings{zhang-etal-2024-glape,
+    abbr = {EMNLP},
+    title = "{GL}a{PE}: Gold Label-agnostic Prompt Evaluation for Large Language Models",
+    author = "Zhang*, Xuanchang  and
+      Zhang, Zhuosheng  and
+      Zhao, Hai",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.emnlp-main.121/",
+    doi = "10.18653/v1/2024.emnlp-main.121",
+    pages = "2027--2039",
+    abstract = "Despite the rapid progress of large language models (LLMs), their task performance remains sensitive to prompt design. Recent studies have explored leveraging the LLM itself as an optimizer to identify optimal prompts that maximize task accuracy. However, when evaluating prompts, such approaches heavily rely on elusive manually annotated gold labels to calculate task accuracy for each candidate prompt, which hinders its generality. To overcome the limitation, this work proposes GLaPE, a gold label-agnostic prompt evaluation method to alleviate dependence on gold labels. GLaPE is composed of two critical aspects: self-consistency evaluation of a single prompt and mutual-consistency refinement across multiple prompts. Experimental results on 8 widely-recognized reasoning tasks demonstrate that GLaPE can produce more effective prompts, achieving performance comparable to those derived from manually annotated gold labels. Analysis shows that GLaPE provides reliable evaluations aligned with accuracy, even in the absence of gold labels. Code is publicly available at **Anonymous**.",
+    code={https://github.com/thunderous77/GLaPE},
+    selected={true},
+    arxiv = {2402.02408},
+    preview={GLaPE.png}
 }
