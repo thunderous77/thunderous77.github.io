@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
-    # <p>555 your office number</p>
-    # <p>123 your address street</p>
-    # <p>Your City, State 12345</p>
+  # <p>555 your office number</p>
+  # <p>123 your address street</p>
+  # <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -35,4 +35,4 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am **Xuanchang Zhang** (章轩畅), a graduate of [Shanghai Jiao Tong University](https://en.sjtu.edu.cn) and a member of the [ACM Honors Class](https://acm.sjtu.edu.cn/home). My research focuses on improving large language models, with particular emphasis on model evaluation and alignment.
 
-During my undergraduate studies, I worked on prompt evaluation and optimization advised by Prof. [Zhuosheng Zhang](https://bcmi.sjtu.edu.cn/~zhangzs/) and Prof. [Hai Zhao](https://bcmi.sjtu.edu.cn/~zhaohai/) at [SJTU](](https://en.sjtu.edu.cn)), which was accepted by [EMNLP 2024](https://2024.emnlp.org). More recently, I studied format biases in reinforcement learning from human feedback (RLHF) at the [UIUC](https://illinois.edu), advised by Prof. [Tong Zhang](https://tongzhang-ml.org). This work was accepted by [ACL 2025](https://2025.aclweb.org).
+During my undergraduate studies, I worked on prompt evaluation and optimization advised by Prof. [Zhuosheng Zhang](https://bcmi.sjtu.edu.cn/~zhangzs/) and Prof. [Hai Zhao](https://bcmi.sjtu.edu.cn/~zhaohai/) at [SJTU](https://en.sjtu.edu.cn), which was accepted by [EMNLP 2024](https://2024.emnlp.org). More recently, I studied format biases in reinforcement learning from human feedback (RLHF) at the [UIUC](https://illinois.edu), advised by Prof. [Tong Zhang](https://tongzhang-ml.org). This work was accepted by [ACL 2025](https://2025.aclweb.org).
