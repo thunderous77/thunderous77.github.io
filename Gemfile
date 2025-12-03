@@ -37,4 +37,4 @@ group :other_plugins do
     # gem 'webrick' -- should be already installed by jekyll
 end
 
-gem "nokogiri", ">= 1.15.0"
+gem "nokogiri", "~> 1.17"
