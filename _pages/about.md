@@ -33,6 +33,8 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am **Xuanchang Zhang** (章轩畅), an undergraduate of [Shanghai Jiao Tong University](https://en.sjtu.edu.cn) and a member of the [ACM Honors Class](https://acm.sjtu.edu.cn/home). My research focuses on improving large language models, with particular emphasis on model evaluation and alignment.
+I am **Xuanchang Zhang** (章轩畅), an incoming PhD student at the [University of Illinois Urbana-Champaign](https://illinois.edu), where I will be advised by Prof. [Tong Zhang](https://tongzhang-ml.org). I received my B.Eng. in Computer Science from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn) ([ACM Honors Class](https://acm.sjtu.edu.cn/home)).
 
-During my undergraduate studies, I worked on prompt evaluation and optimization advised by Prof. [Zhuosheng Zhang](https://bcmi.sjtu.edu.cn/~zhangzs/) and Prof. [Hai Zhao](https://bcmi.sjtu.edu.cn/~zhaohai/) at [SJTU](https://en.sjtu.edu.cn), which was accepted by [EMNLP 2024](https://2024.emnlp.org). More recently, I studied format biases in reinforcement learning from human feedback (RLHF) at the [UIUC](https://illinois.edu), advised by Prof. [Tong Zhang](https://tongzhang-ml.org). This work was accepted by [ACL 2025](https://2025.aclweb.org).
+My research focuses on improving large language models, with an emphasis on post-training and alignment.
+
+During my undergraduate studies, I had the privilege to conduct research at [SJTU](https://en.sjtu.edu.cn), advised by Prof. [Zhuosheng Zhang](https://bcmi.sjtu.edu.cn/~zhangzs/) and Prof. [Hai Zhao](https://bcmi.sjtu.edu.cn/~zhaohai/). I later continued my research at [UIUC](https://illinois.edu) with Prof. [Tong Zhang](https://tongzhang-ml.org).
