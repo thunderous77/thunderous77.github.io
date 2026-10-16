@@ -8,5 +8,3 @@ description: Curriculum Vitae
 cv_pdf: cv.pdf
 redirect_to_pdf: true
 ---
-
-

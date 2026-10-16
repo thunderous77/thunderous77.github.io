@@ -11,7 +11,7 @@
   contents:
     - title: Bachelor's Degree
       institution: Shanghai Jiao Tong University, Shanghai, China
-      year: 
+      year:
       description:
         - Member of the <a href="https://acm.sjtu.edu.cn/home">ACM Honors Class</a>
         - Focus on Computer Science and related fields
@@ -21,14 +21,14 @@
   contents:
     - title: Research on Format Biases in RLHF
       institution: University of Illinois Urbana-Champaign (UIUC), Illinois, US
-      year: 
+      year:
       description:
         - Advised by Prof. <a href="https://tongzhang-ml.org">Tong Zhang</a>
         - Studied format biases in reinforcement learning from human feedback (RLHF)
         - Work accepted by <a href="https://2025.aclweb.org">ACL 2025</a>
     - title: Research on Prompt Evaluation and Optimization
       institution: Shanghai Jiao Tong University (SJTU), Shanghai, China
-      year: 
+      year:
       description:
         - Advised by Prof. <a href="https://bcmi.sjtu.edu.cn/~zhangzs/">Zhuosheng Zhang</a> and Prof. <a href="https://bcmi.sjtu.edu.cn/~zhaohai/">Hai Zhao</a>
         - Worked on prompt evaluation and optimization for large language models
