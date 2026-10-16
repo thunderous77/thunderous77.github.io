@@ -111,7 +111,10 @@
       {% endif %}
     </div>
 
-    <div class="periodical">{{ entry.abbr }} {{ entry.year }}</div>
+    <div class="periodical">
+      {{ entry.abbr }}
+      {{ entry.year }}
+    </div>
 
     <div class="links">
       {% assign paper_url = entry.url | default: entry.title_url %}
